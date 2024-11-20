@@ -1,10 +1,21 @@
 {
 	"name": "A Little Darker",
 	"colors": {
-		"editor.background": "#263238",
+		"activityBar.background":"#0c0c0c",
+		"button.background":"#000000",
+		"dropdown.background":"#282828",
+		"editor.background": "#070707",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editorWidget.background":"#000000",
+		"sideBar.background":"#0c0c0c",
+		"editorGroupHeader.noTabsBackground":"#202020",
+		"editorGroupHeader.tabsBackground":"#202020",
+		"tab.activeBackground":"#000000",
+		"tab.inactiveBackground":"#202020",
+		"tab.hoverBackground":"#383838",
+		
 	},
 	"tokenColors": [
 		{
@@ -15,7 +26,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#6d6d6d"
 			}
 		},
 		{
@@ -25,7 +36,17 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "LuaOther",
+			"scope": [
+				"entity.other.attribute.lua"
+			],
+			"settings": {
+				"foreground": "#c28eb0",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -75,7 +96,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#e72881"
 			}
 		},
 		{
@@ -99,7 +120,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#de7afd"
 			}
 		},
 		{
@@ -134,7 +155,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ff98dd"
 			}
 		},
 		{
@@ -149,7 +170,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#f0668f"
 			}
 		},
 		{
@@ -165,7 +186,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#d2a2ff"
 			}
 		},
 		{

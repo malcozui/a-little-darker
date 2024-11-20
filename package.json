@@ -2,7 +2,8 @@
   "name": "a-little-darker",
   "displayName": "A Little Darker",
   "description": "A Dark theme a little darker than default Dark or even Modern Dark +",
-  "version": "0.0.1",
+  "publisher": "malcozui",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -17,5 +18,16 @@
         "path": "./themes/A Little Darker-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "pink theme",
+    "purple theme",
+    "malcozui",
+    "dark purple theme",
+    "dark pink theme",
+    "a little darker",
+    "darker theme"
+  ]
 }
