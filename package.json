@@ -19,7 +19,7 @@
       }
     ]
   },
-  "icon": "./ALittleDarker.png",
+  "icon": "ALittleDarker.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/malcozui/a-little-darker"
