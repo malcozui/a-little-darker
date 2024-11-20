@@ -1,0 +1,21 @@
+{
+  "name": "a-little-darker",
+  "displayName": "A Little Darker",
+  "description": "A Dark theme a little darker than default Dark or even Modern Dark +",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "A Little Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/A Little Darker-color-theme.json"
+      }
+    ]
+  }
+}
