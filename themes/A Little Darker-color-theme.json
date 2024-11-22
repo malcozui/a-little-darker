@@ -71,7 +71,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -79,10 +79,11 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"entity.name.type.cs"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#FF98DD"
 			}
 		},
 		{
