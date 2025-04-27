@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "A Little Darker",
+        "label": "A Little Darker - Default Dark+ Colors",
         "uiTheme": "vs-dark",
         "path": "./themes/A Little Darker-color-theme.json"
+      },
+      {
+        "label": "A Little Darker - Pink 'n Purple Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/A Little Darker-color-theme - PinkAndPurple.json"
       }
     ]
   },
