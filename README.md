@@ -9,4 +9,3 @@ The theme is a fork of the *Default Dark+* theme that comes packaged with Visual
 ## Source code
 
 The source code for the theme is available here: on [Github](https://github.com/malcozui/a-little-darker).
-It was generated using yo generator-code and thus you should seek the `A Little Darker-color-theme.json` file for all colour choices and token assignment.

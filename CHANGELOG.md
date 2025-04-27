@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "a-little-darker" extension will be documented in this file.
+## Version 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+* Commit of two themes, *"Dark+"* and *"Pink 'n Purple"*
