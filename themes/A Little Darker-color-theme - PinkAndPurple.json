@@ -55,6 +55,17 @@
 			}
 		},
 		{
+			"name": "C++ Preprocessor definitions",
+			"scope": [
+				"entity.name.function.preprocessor.cpp",
+				"meta.preprocessor.cpp"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#d46ccc"
+			}
+		},
+		{
 			"name": "Variables",
 			"scope": [
 				"variable",

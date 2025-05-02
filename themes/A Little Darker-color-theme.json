@@ -56,6 +56,17 @@
 			}
 		},
 		{
+			"name": "C++ Preprocessor definitions",
+			"scope": [
+				"entity.name.function.preprocessor.cpp",
+				"meta.preprocessor.cpp"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#d46ccc"
+			}
+		},
+		{
 			"name": "Variables",
 			"scope": [
 				"variable",
@@ -72,7 +83,7 @@
 				"entity.other.attribute.lua"
 			],
 			"settings": {
-				"foreground": "#4EC9B0",
+				"foreground": "#1CD9B3",
 				"fontStyle": "bold"
 			}
 		},
@@ -138,7 +149,7 @@
 				"keyword.other.directive.using"
 			],
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#d46ccc"
 			}
 		},
 		{
@@ -233,7 +244,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#c78469"
 			}
 		},
 		{
@@ -250,7 +261,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#1cd9b3"
 			}
 		},
 		{
