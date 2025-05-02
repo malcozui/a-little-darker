@@ -28,7 +28,27 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+				"meta.preprocessor.cs"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#6d6d6d"
+			}
+		},
+		{
+			"name": "C# Preprocessor definitions",
+			"scope": [
+				"keyword.preprocessor.region.cs",
+				"keyword.preprocessor.endregion.cs",
+				"keyword.preprocessor.if.cs",
+				"keyword.preprocessor.elif.cs",
+				"keyword.preprocessor.else.cs",
+				"keyword.preprocessor.endif.cs",
+				"keyword.preprocessor.error.cs",
+				"keyword.preprocessor.warning.cs",
+				"keyword.preprocessor.line.cs",
+				"meta.preprocessor.cs"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -52,7 +72,7 @@
 				"entity.other.attribute.lua"
 			],
 			"settings": {
-				"foreground": "#c28eb0",
+				"foreground": "#4EC9B0",
 				"fontStyle": "bold"
 			}
 		},

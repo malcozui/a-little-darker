@@ -36,6 +36,25 @@
 			}
 		},
 		{
+			"name": "C# Preprocessor definitions",
+			"scope": [
+				"keyword.preprocessor.region.cs",
+				"keyword.preprocessor.endregion.cs",
+				"keyword.preprocessor.if.cs",
+				"keyword.preprocessor.elif.cs",
+				"keyword.preprocessor.else.cs",
+				"keyword.preprocessor.endif.cs",
+				"keyword.preprocessor.error.cs",
+				"keyword.preprocessor.warning.cs",
+				"keyword.preprocessor.line.cs",
+				"meta.preprocessor.cs"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#E72881"
+			}
+		},
+		{
 			"name": "Variables",
 			"scope": [
 				"variable",
