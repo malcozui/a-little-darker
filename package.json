@@ -21,6 +21,11 @@
         "label": "A Little Darker - Pink 'n Purple Colors",
         "uiTheme": "vs-dark",
         "path": "./themes/A Little Darker-color-theme - PinkAndPurple.json"
+      },
+      {
+        "label": "A Little Darker - Yellow Energy Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/A Little Darker-color-theme - Yellow.json"
       }
     ]
   },
@@ -31,12 +36,16 @@
   },
   "keywords": [
     "theme",
+    "color",
+    "colour",
     "dark theme",
     "pink theme",
     "purple theme",
+    "yellow theme",
     "malcozui",
     "dark purple theme",
     "dark pink theme",
+    "dark yellow theme",
     "a little darker",
     "darker theme"
   ]
