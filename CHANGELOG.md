@@ -13,3 +13,7 @@
 
 * Added Preprocessor directives colours for C++ for Default Dark+ (#D46CCC) and Pink 'n Purple (#D46CCC)
 * Changed Default Dark+ colours to be slightly more saturated
+
+## Verson 1.1.0
+
+* Added *Yellow Energy* Theme
